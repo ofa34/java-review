@@ -27,4 +27,6 @@ public class Team<T extends Player> {
     public int numPlayer(){
         return this.members.size();
     }
+
+
 }
